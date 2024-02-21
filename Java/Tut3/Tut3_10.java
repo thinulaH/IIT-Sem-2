@@ -15,11 +15,6 @@ public class Tut3_10{
             total = total * number;
             count++ ;
         }
-        {
-            System.out.println("The answer is " + total);
-        }
-
+        System.out.println("The answer is " + total);
     }
-
-
 }

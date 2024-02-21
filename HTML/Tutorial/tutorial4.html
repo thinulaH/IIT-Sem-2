@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial 4</title>
+    <style>
+        #personal{
+            background-color: rgb(166, 206, 215);
+        }
+        #booking{
+            background-color: antiquewhite;
+        }
+        #controls{
+            background-color: rgb(56, 47, 36);
+            padding-left: 90%;
+        }
+        fieldset{
+            border-radius: 20px;
+        }
+        .inputs{
+            text-align: justify;
+        }
+        legend{
+            font-weight: bold;
+        }
+        .Buttons{
+            border-radius: 8px;
+            color: rgb(217, 211, 204);
+            background-color: rgb(37, 60, 78);
+        }
+        .class{
+            grid-column-start:initial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hotel Reservation</h1>
+    
+    <form>
+        <fieldset id = "personal">
+            <legend>Personal Details</legend>
+            <lable for ="name">First Name:</lable>
+            <input type="text" id = "name" name = "name" class="inputs"><br>
+            <lable for ="sname">Surname:</lable>
+            <input type="text" id = "sname" name = "sname" class="inputs"><br>
+            <lable for ="email">Email address:</lable>
+            <input type="email" id = "email" name = "email"><br>
+            <label for="password">Set up a password:</label>
+            <input type="password" id = "password" name = "password" class="inputs">
+        </fieldset>
+        <fieldset id="booking">
+            <legend>Booking Details</legend>
+            <label for = "date">Cheking day:</label> 
+            <input type="date" id = "date" name = "date"><br>
+            <label for ="noOfDays">Number of days:</label>
+            <input type="text" id="noOfDays" name ="noOfDays"><br>
+            <input type="radio" id="single" name="roomSizes">
+            <label for="single" >Single Room</label><br>
+            <input type="radio" id="double" name="roomSizes">
+            <label for="double" >Double Room</label><br>
+            <input type="radio" id="king" name="roomSizes">
+            <label for="king" >King Room</label><br>
+            <label for="breakfast">Breakfast:</label>
+            <select  name="breakfast" id="breakfast">
+                <option value="include">Include</option>
+                <option value="notinclude">Not Include</option>
+            </select><br>
+            <label for="requrements:" >Special Requrements</label>
+            <textarea>Please provide any special requirements</textarea><br>
+        </fieldset>
+        <fieldset id = "controls">
+            <input type="reset" class="Buttons">
+            <input type="submit" class="Buttons">
+        </fieldset>
+    </form>
+    
+</body>
+</html>
