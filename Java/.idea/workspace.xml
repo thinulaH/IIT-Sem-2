@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e3f31db-87bd-40b2-baf3-8d54616375c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CW/4COSC010C Coursework description 23_24_IIT_V2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 1/Tut4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 1/myFirstApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 1/myFirstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/GradeCal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/GradeCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/Lec2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/Lec2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/Lecture 2 _ Operators &amp; Control Flow _Final.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/lec2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 2/lec2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 3/Lec3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 3/Lecture3_New_LoopsAndDebugging.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 3/Loops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 3/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec 3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/.idea/Lec4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/Lec4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec4/Lecture4ArraysSearchSort2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/.idea/Lec5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/Lec5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/MyFirstJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut1/Tut_1_5_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tut_2_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut2/Tutorial 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/.idea/Tut3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tut3_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tutorial 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut3/Tutorial3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tut4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tut4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tut4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tut4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tut4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut4/Tutorial4_Final_IIT_2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut5/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut5/Tut5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut5/Tut5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tut5/Tutorial5_Final_IIT24.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2dIr3bf822LI66EIq5XZ9cg3hVn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/thinula/Desktop/Semester 2/Java/JAVA/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e3f31db-87bd-40b2-baf3-8d54616375c9" name="Changes" comment="" />
+      <created>1709706236097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709706236097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
